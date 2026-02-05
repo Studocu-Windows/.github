@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://studocu-windows.github.io/.github/">
+  <a href="https://studocuwindows.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Studocu-blue?style=for-the-badge&logo=github" alt="Get Studocu"/>
   </a>
 </p>
